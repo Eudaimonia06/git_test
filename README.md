@@ -1,0 +1,1 @@
+This is Eudaimonia first git project
